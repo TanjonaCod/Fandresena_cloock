@@ -217,4 +217,7 @@ h2{
         height: 1500px;
         padding: 20% 0;
     }
+    .text{
+        display: block;
+    }
 }
